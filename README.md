@@ -44,13 +44,13 @@ ollama pull qwen2.5-coder:32b
 
 **macOS (Homebrew):**
 ```bash
-brew tap trustabl/trustabl
+brew tap trustabl/autofix
 brew install autofix
 ```
 
 **Windows (Scoop):**
 ```powershell
-scoop bucket add trustabl https://github.com/trustabl/scoop-trustabl
+scoop bucket add trustabl https://github.com/trustabl/scoop-autofix
 scoop install autofix
 ```
 
